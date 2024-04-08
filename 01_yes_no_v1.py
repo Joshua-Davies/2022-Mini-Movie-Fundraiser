@@ -1,7 +1,7 @@
 # functions go here
 
 # maiun routine goes here
-want_instructions = input("Do you want to read the instructions? ")
+want_instructions = input("Do you want to read the instructions? ").lower()
 
 if want_instructions == "yes":
     print ("Instructions go here")
