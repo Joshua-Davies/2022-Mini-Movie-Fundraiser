@@ -1,0 +1,15 @@
+---- Mini Movie Fundraiser Ticket Data (02/05/24) ----
+
+       Ticket Price Surcharge   Total Profit
+Name                                        
+Joshua       $10.50     $0.00  $10.50  $5.50
+34           $10.50     $0.00  $10.50  $5.50
+
+----- Ticket Cost / Profit -----
+Total Ticket Sales: $21.00
+Total Profit : $11.00
+
+ *** You have sold 2 out of 5 tickets *****
+
+---- Raffle Winner ----
+The winner of the raffle is Joshua. They have won $10.50  ie: Their ticket is free!

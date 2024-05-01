@@ -1,0 +1,14 @@
+---- Mini Movie Fundraiser Ticket Data (27/02/24) ----
+
+     Ticket Price Surcharge   Total Profit
+Name                                      
+qwe        $10.50     $0.00  $10.50  $5.50
+
+----- Ticket Cost / Profit -----
+Total Ticket Sales: $10.50
+Total Profit : $5.50
+
+ *** You have sold 1 out of 5 tickets *****
+
+---- Raffle Winner ----
+The winner of the raffle is qwe. They have won $10.50  ie: Their ticket is free!
